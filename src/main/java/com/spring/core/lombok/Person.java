@@ -1,4 +1,4 @@
-package com.example.core.lombok;
+package com.spring.core.lombok;
 
 import lombok.*;
 @Setter @Getter
